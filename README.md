@@ -1,6 +1,6 @@
 # dmm_app
 
-A new Flutter project.
+本当はDMMのAPI使って女優検索するつもりだったけど、UI作るのまずむずくね？ってなってとりあえずネットにありてるサイトよみながらLINE風なやつを作ってみた。
 
 ## Getting Started
 
